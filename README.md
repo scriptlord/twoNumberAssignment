@@ -2,7 +2,7 @@
 
 # Solution to find the two numbers that sums up to a target
 
-# The solution to this algorithm challenge must be written in Javascript.
+ The solution to this algorithm challenge is written in Javascript.
 
 Given an array of integers nums and an integer target, create a function that returns the two numbers such that they add up to target. You may assume that each input would have exactly one solution, and you may not use the same element twice.
 
